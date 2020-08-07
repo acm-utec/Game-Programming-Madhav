@@ -4,8 +4,8 @@ This is a repository for the S.I.G. of Videogame Development from ACM - UTEC to 
 
 This repository is divided in two main parts:
 
-* Summaries: In charge of `DiegoELT <https://github.com/DiegoELT>`_
-* Assignments: In which all the S.I.G. participates.
+* Summaries: In charge of  <a href="https://github.com/DiegoELT">DiegoELT</a>
+* Assignments: In which all the S.I.G. members participate.
 
 We will be also be keeping a log of the readings that are being done, as well as the assignments so anyone who wishes to keep up, can do so.
 
@@ -21,7 +21,7 @@ $ git clone https://github.com/acm-utec/Game-Programming-Madhav.git
 $ cd Game-Programming-Madhav/assignments
 
 # Enter the corresponding assignment's directory, or create one if non-existent
-$ mkdir <relevantName>_<chapter>_<number>
+$ mkdir <relevantName>_<chapterNumber>_<number>
 
 # Inside this directory, create one with your (nick)name
 $ mkdir <username>
